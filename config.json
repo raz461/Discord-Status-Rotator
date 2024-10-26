@@ -1,0 +1,23 @@
+{
+    "token":"Your_Discord_Token",
+    "switchInterval": 5,
+    "presences": ["online","idle","dnd","invisible"],
+    "emojiePosition": 0,
+    "emojies":[
+        "😂",
+        "😍",
+        "<:bof:1255888207506051165>",
+        "😊",
+        "😁",
+        "😎",
+        "😜",
+        "😋"
+    ],
+    "statusText": [
+        "Playing undesync.gg",
+        "Cheap nitro: undesync.gg",
+        "Join undesync.gg",
+        "discord.gg/undesync",
+        "discord.gg/undesync"
+    ]
+}
